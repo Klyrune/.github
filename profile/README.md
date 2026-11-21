@@ -1,12 +1,19 @@
-## Hi there 👋
+# Klyrune
 
-<!--
+**Klyrune** — настольное приложение для Windows 10/11 (x64) для анализа файловой системы и безопасной, прозрачной помощи в освобождении дискового пространства.
 
-**Here are some ideas to get you started:**
+## Главный принцип
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Klyrune помогает пользователю безопасно принимать решения о файлах, а не принимает необратимые решения за него:
+
+- **Без автоматического удаления** — каждое действие выполняется только после явного подтверждения.
+- **Объяснимость** — для каждого кандидата отображаются причина, путь, размер, категория и уровень риска.
+- **Консервативная защита** — системные каталоги Windows и пользовательские данные защищены строгими правилами.
+- **Карантин и восстановление** — безопасное перемещение с проверкой конфликтов при восстановлении.
+- **Минимальные привилегии** — обычное сканирование не требует прав администратора.
+
+## Полезные ссылки
+
+- **Релизы, контрольные суммы SHA-256 и обратная связь:** [Klyrune/Klyrune-Releases](https://github.com/Klyrune/Klyrune-Releases)
+- **Политика безопасности:** [SECURITY.md](https://github.com/Klyrune/Klyrune-Releases/blob/main/SECURITY.md)
+- **Обратная связь:** `community@klyrune.clean`
