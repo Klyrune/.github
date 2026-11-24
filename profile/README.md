@@ -14,6 +14,7 @@ Klyrune помогает пользователю безопасно прини�
 
 ## Полезные ссылки
 
+- **Официальный сайт:** [klyrune.tech](https://klyrune.tech)
 - **Релизы, контрольные суммы SHA-256 и обратная связь:** [Klyrune/Klyrune-Releases](https://github.com/Klyrune/Klyrune-Releases)
 - **Политика безопасности:** [SECURITY.md](https://github.com/Klyrune/Klyrune-Releases/blob/main/SECURITY.md)
-- **Обратная связь:** `community@klyrune.clean`
+- **Обратная связь:** `community@klyrune.tech`
